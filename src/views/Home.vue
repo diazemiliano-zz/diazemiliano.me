@@ -1,7 +1,7 @@
 <template>
-	<div class="home align-center justify-center text-xs-center">
+	<v-layout layout row wrap align-center justify-center>
 		<HelloWorld msg="Welcome to my Site."/>
-	</div>
+	</v-layout>
 </template>
 
 <script>
