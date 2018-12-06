@@ -1,6 +1,6 @@
 <template>
 	<v-app>
-		<v-content>
+		<v-content theme--light grey lighten-3>
 			<v-container fill-height>
 				<router-view/>
 			</v-container>
